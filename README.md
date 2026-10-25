@@ -1,6 +1,6 @@
-# yug srivastav
+# Yug srivastav
 
-cs undergrad based in delhi ncr, mostly building devtools and systems around ai agents and concurrency
+CS undergrad based in delhi ncr, mostly building devtools and systems around ai agents and concurrency
 
 ### projects
 
